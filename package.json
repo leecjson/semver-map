@@ -1,6 +1,6 @@
 {
   "name": "semver-map",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Use javascript's map with Semantic-Versioning",
   "main": "index.js",
   "author": "leecjson",
@@ -12,6 +12,10 @@
     "dictionary"
   ],
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leecjson/semver-map.git"
+  },
   "devDependencies": {
     "jest": "^23.6.0"
   },

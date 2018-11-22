@@ -7,7 +7,7 @@ npm install --save semver-map
 ```
 
 ```javascript
-const SemverMap = require('./index');
+const SemverMap = require('semver-map');
 
 test('usage test', () => {
   const map = new SemverMap();
